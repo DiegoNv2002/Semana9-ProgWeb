@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lemonada | Reboto');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-scrif;
+    font-family: 'Lemonada', cursive;
+}
+body{
+    background: #78a7bc;
+    background-image: url(/Semana\ 9/images/Logo-utp.jpg);
+    background-attachment: fixed;
+    background-position: center;
+}
